@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/mubarek-trading-dashboard/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
