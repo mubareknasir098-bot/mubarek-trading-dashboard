@@ -1,0 +1,8 @@
+{
+  "name": "Mubarek Trading Dashboard",
+  "description": "Professional simulated trading journal and performance analytics dashboard for educational paper-trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
